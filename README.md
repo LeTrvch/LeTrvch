@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LeTrvch
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python + Spark
+- 💞️ I’m looking to collaborate on operations optimization projects
